@@ -1,6 +1,6 @@
 ### Ola eu sou Alexandre Pereira ✌️
 
-[![Blog](https://img.shields.io/badge/Alexandre-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://alexandre768.github.io/projeton/)
+[![Linkedin](https://www.linkedin.com/in/alexandre-pereira-de-siqueira-4a05b0234/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandy_peereira/)
 
