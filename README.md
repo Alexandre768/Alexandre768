@@ -1,6 +1,6 @@
 ### Ola eu sou Alexandre Pereira ✌️
 
-[![Linkedin](https://icons8.com.br/icon/CKyRwYR6uidp/linkedin-circundado)](https://www.linkedin.com/in/alexandre-pereira-de-siqueira-4a05b0234/)
+[![Linkedin](https://www.linkedin.com/in/alexandre-pereira-de-siqueira-4a05b0234/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandy_peereira/)
 
