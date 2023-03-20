@@ -2,7 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/in/alexandre-pereira-de-siqueira-4a05b0234/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandy_peereira/)
+
 
 ![Alexandre768 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre768&show_icons=true&theme=transparent)
 
